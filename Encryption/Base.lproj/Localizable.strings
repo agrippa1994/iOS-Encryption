@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  Encryption
+
+  Created by Mani on 14.12.14.
+  Copyright (c) 2014 Mani. All rights reserved.
+*/
+
+"IV_ERROR" = "The IV is incorrect!\nIt must be %d bits / %d bytes long!";
+
+"KEY_ERROR" = "The key is incorrent\nIt must be %d bits / %d bytes long!";
+
+"INPUT_ERROR" = "The input seems to have a wrong format!";
+
+"ENCODE_ERROR" = "An unknown error while encoding data occured!";
+
+"DECODE_ERROR" = "An unknown error while decoding data occured!";
